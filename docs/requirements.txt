@@ -26,7 +26,7 @@ Flask-Caching>=1.0.0
 environs ==4.2.0
 marshmallow ==2.20.2
 # async tasks
-celery ==4.3.0
+celery ==5.2.2
 more-itertools ==5.0.0
 kombu ==4.4.0
 # other
